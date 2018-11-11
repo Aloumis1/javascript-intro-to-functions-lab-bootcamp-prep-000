@@ -1,4 +1,4 @@
- function shout(string) {
+ expect(shout(string)) {
   return string.toUpperCase()
 }
 
